@@ -1,0 +1,6 @@
+{
+  "name": "LayerZero DevOps Platform",
+  "description": "A high-performance cyberpunk DevOps dashboard for deployment orchestration, real-time telemetry, architecture planning, developer tooling, and decentralized community governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
